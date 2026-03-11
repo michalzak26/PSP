@@ -1,6 +1,6 @@
 # PSP
 
-
+POBIERZ REPOZYTIRUM NA PC, KLIKNIJ ZIELONY PRZYCIK CODE I WYBIERZ POBIERZ ZIP
 
 **Przed przystąpieniem do wgrywania oprogramowania PSP musi widzieć kartę pamięci**
 
